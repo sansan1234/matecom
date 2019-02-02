@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "path": "file:///C:/Users/usre/Downloads",
+    "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -72,7 +72,7 @@
           },
           "title": "คณิตคิดสนุก",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://sg1-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=0d535cbade762a5f%5F1f8f6db9%2Db8b8%2D4675%2Da1ed%2D24bcd9f57670%2Dasync%2Epptx\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/tanapachunkun/Q6DF0R\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>แข่งกับเวลา<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://sg1-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=0d535cbade762a5f%5F25d6b4c5%2D920e%2D4d19%2D9b05%2Daf00f4c4703c%2Dasync%2Epptx\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>ตอบให้ถูกแล้วกัน<br></a>"
         },
         {
           "_styles": {
@@ -943,6 +943,18 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "17px",
+              "text-align": "center"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "font-size": "17px"
+            }
+          },
           "_anchor": "features1-i",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1058,19 +1070,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "font-size": "17px",
-              "text-align": "center"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "font-size": "17px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         }
       ]
     }
