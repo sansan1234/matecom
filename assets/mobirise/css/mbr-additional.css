@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
 
 
@@ -475,6 +477,7 @@ h6,
 #menu-1 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -543,6 +546,14 @@ h6,
   color: #475577;
   font-size: 20px;
 }
+#header6-9 .mbr-section-text B {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#header6-9 .mbr-section-text P {
+  font-size: 24px;
+  color: #000000;
+}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -608,8 +619,8 @@ h6,
   color: #28262b;
 }
 #header6-a .mbr-section-text {
-  color: #28324e;
-  font-size: 20px;
+  color: #000000;
+  font-size: 23px;
 }
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
@@ -676,7 +687,7 @@ h6,
   color: #28262b;
 }
 #header6-b .mbr-section-text {
-  color: #000000;
+  color: #210201;
   font-size: 20px;
 }
 #menu-5 .hide-buttons .nav-btn {
@@ -747,6 +758,10 @@ h6,
   color: #000000;
   font-size: 20px;
 }
+#header6-c .mbr-section-text B {
+  font-size: 23px;
+}
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -810,6 +825,7 @@ h6,
 }
 #header1-g .mbr-section-title {
   color: #28324e;
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 #header1-g .mbr-section-lead {
   text-align: center;
@@ -817,4 +833,17 @@ h6,
 }
 #header1-g .mbr-section-lead P {
   font-size: 22px;
+}
+#header1-g .mbr-section-title I {
+  color: #28324e;
+}
+#features1-i .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-i .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 17px;
+  text-align: center;
+}
+#features1-i .mbr-cards-col:nth-child(even) .card-title {
+  font-size: 17px;
 }
