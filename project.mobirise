@@ -54,7 +54,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/fac2ae43bf7dc667550fca2728626f6f-2000x1335.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -72,7 +72,7 @@
           },
           "title": "คณิตคิดสนุก",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/tanapachunkun/Q6DF0R\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>แข่งกับเวลา<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://sg1-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=0d535cbade762a5f_4bdd76eb-ee87-47ba-bcc3-2e6be875dab5-async%2Epptx\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>ตอบให้ถูกแล้วกัน<br></a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/tanapachunkun/Q6DF0R\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>แข่งกับเวลา<br></a> "
         },
         {
           "_styles": {
