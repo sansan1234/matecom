@@ -47,7 +47,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#f28281"
+              "color": "#000000"
             }
           },
           "_anchor": "header1-0",
@@ -62,17 +62,17 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "title": "คณิตคิดสนุก",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/tanapachunkun/Q6DF0R\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>แข่งกับเวลา<br></a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/nescharinda/DGUINA\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>บวกเลข<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/nescharinda/RSX308\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>ลบเลข<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/nescharinda/ZGWMLN\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>คูณเลข<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"http://www.quizpedia.com/quiz/nescharinda/FEM7SA\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>หารเลข<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"http://www.quizpedia.com/quiz/tanapachunkun/Q6DF0R\" data-toolbar=\"-mbrBtnMove\">เกมคณิตคิดสนุก<br>แข่งกับเวลา<br></a> "
         },
         {
           "_styles": {
@@ -258,7 +258,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">คณิตคิดสนุก</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
         },
         {
           "_inherit": "header2",
@@ -302,7 +302,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -325,7 +325,7 @@
           },
           "title": "",
           "text": "<p><b><span style=\"font-style: italic;\">ก</span>ารบวก</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>คือ กระบวนการทางคณิตศาสตร์   โดยการรวมสิ่งของเข้าด้วยกัน <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;เครื่องหมายบวก (+)  ถูกใช้แทนความหมายของการบวกจำนวนหลายจำนวน</b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/DGUINA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -422,7 +422,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">คณิตคิดสนุก</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
         },
         {
           "_inherit": "header2",
@@ -457,7 +457,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -480,7 +480,7 @@
           },
           "title": "การลบ",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>คือ การนำจำนวนหนึ่งหักออกจากอีกจำนวนหนึ่ง หรือเป็นการเปรียบเทียบจำนวนสองจำนวน ซึ่งจำนวนที่เหลือหรือจำนวนที่เป็นผลต่างของสองจำนวนนี้เรียกว่า \"ผลลบ\" และใช้เครื่องหมาย ลบ (-) </b><br><b>เป็นการแสดงการลบ</b><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/RSX308\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -577,7 +577,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">คณิตคิดสนุก</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
         },
         {
           "_inherit": "header2",
@@ -612,7 +612,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -635,7 +635,7 @@
           },
           "title": "การคูณ",
           "text": "<b>คือ การดำเนินการทางคณิตศาสตร์อย่างหนึ่ง ทำให้เกิดการเพิ่มหรือลดจำนวนจำนวนหนึ่งเป็นอัตรา การคูณเป็นหนึ่งในสี่ของการดำเนินการพื้นฐานของเลขคณิตมูลฐาน (การดำเนินการอย่างอื่นได้แก่ การบวก การลบ และการหาร)<br><br>การคูณสามารถนิยามบนจำนวนธรรมชาติว่าเป็นการบวกที่ซ้ำๆ กัน ตัวอย่างเช่น 4 คูณด้วย 3 (หรือเรียกโดยย่อว่า 4 คูณ 3) หมายถึงการบวกจำนวน 4 เข้าไป 3 ชุด ดังนี้<br><br>4 + 4 + 4 = 12!<br>โดยทั่วไปการคูณสามารถเขียนโดยใช้เครื่องหมายคูณ (×) ระหว่างจำนวนทั้งสอง (ในรูปแบบสัญกรณ์เติมกลาง)</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/ZGWMLN\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -732,7 +732,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">คณิตคิดสนุก</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
         },
         {
           "_inherit": "header2",
@@ -770,7 +770,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -793,7 +793,7 @@
           },
           "title": "การหาร",
           "text": "<b>การทำให้ลดลงทีละเท่าๆกัน หรือการลบออกด้วย &nbsp; &nbsp; &nbsp; จำนวนเท่าๆกัน       หลายครั้ง จนผลลบเป็น 0&nbsp;</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/FEM7SA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> "
         }
       ]
     },
@@ -890,7 +890,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">คณิตคิดสนุก</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">บทเรียนเสริมทักษะ</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">การบวก<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">การลบ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">การคูณ<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">การหาร<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html\">หน้าหลัก</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page5.html\">ผู้จัดทำ</a></li>"
         },
         {
           "_tags": [
@@ -919,7 +919,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/funny_school_children-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/funny-school-children-2000x1333.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
