@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -325,7 +325,7 @@
           },
           "title": "",
           "text": "<p><b><span style=\"font-style: italic;\">ก</span>ารบวก</b></p><p>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<b>คือ กระบวนการทางคณิตศาสตร์   โดยการรวมสิ่งของเข้าด้วยกัน <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;เครื่องหมายบวก (+)  ถูกใช้แทนความหมายของการบวกจำนวนหลายจำนวน</b></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/DGUINA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/DGUINA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -480,7 +480,7 @@
           },
           "title": "การลบ",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>คือ การนำจำนวนหนึ่งหักออกจากอีกจำนวนหนึ่ง หรือเป็นการเปรียบเทียบจำนวนสองจำนวน ซึ่งจำนวนที่เหลือหรือจำนวนที่เป็นผลต่างของสองจำนวนนี้เรียกว่า \"ผลลบ\" และใช้เครื่องหมาย ลบ (-) </b><br><b>เป็นการแสดงการลบ</b><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/RSX308\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/RSX308\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนก่อนหน้านี้</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -635,7 +635,7 @@
           },
           "title": "การคูณ",
           "text": "<b>คือ การดำเนินการทางคณิตศาสตร์อย่างหนึ่ง ทำให้เกิดการเพิ่มหรือลดจำนวนจำนวนหนึ่งเป็นอัตรา การคูณเป็นหนึ่งในสี่ของการดำเนินการพื้นฐานของเลขคณิตมูลฐาน (การดำเนินการอย่างอื่นได้แก่ การบวก การลบ และการหาร)<br><br>การคูณสามารถนิยามบนจำนวนธรรมชาติว่าเป็นการบวกที่ซ้ำๆ กัน ตัวอย่างเช่น 4 คูณด้วย 3 (หรือเรียกโดยย่อว่า 4 คูณ 3) หมายถึงการบวกจำนวน 4 เข้าไป 3 ชุด ดังนี้<br><br>4 + 4 + 4 = 12!<br>โดยทั่วไปการคูณสามารถเขียนโดยใช้เครื่องหมายคูณ (×) ระหว่างจำนวนทั้งสอง (ในรูปแบบสัญกรณ์เติมกลาง)</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/ZGWMLN\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/ZGWMLN\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนก่อนหน้านี้</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนถัดไป</a>"
         }
       ]
     },
@@ -793,7 +793,7 @@
           },
           "title": "การหาร",
           "text": "<b>การทำให้ลดลงทีละเท่าๆกัน หรือการลบออกด้วย &nbsp; &nbsp; &nbsp; จำนวนเท่าๆกัน       หลายครั้ง จนผลลบเป็น 0&nbsp;</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/FEM7SA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"http://www.quizpedia.com/quiz/nescharinda/FEM7SA\" data-toolbar=\"-mbrBtnMove\">เกมทดสอบท้ายบทเรียน</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">บทเรียนก่อนหน้านี้</a> "
         }
       ]
     },
